@@ -9,10 +9,11 @@
     </head>
     <body>
 
-        <h1>The coolest creature</h1>
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nbclosangeles.com%2Fnews%2Flocal%2Fhumane-officers-investigating-peacock-death-in-rolling-hills-estates%2F2286182%2F&psig=AOvVaw2IUD_gvdPPlBzuwOlH2mfv&ust=1669632059963000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjBuKGWzvsCFQAAAAAdAAAAABAh" alt="a picture of a peacock" width="200px">
+        <h1>THE COOLEST CREATURE</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Anser_anser_1_%28Piotr_Kuczynski%29.jpg" alt="A goose" width="200px">
+    
 
-        <p>The <em>Peacock</em> is awesome because <strong>it has massive attractive train, sheds this train once a year and can also fly</strong>.</p>
+        <p><em>The goose </em> is an awesome creature because its very loyal and have strong affection for others in their group.</p>
 
     </body>
 </html>

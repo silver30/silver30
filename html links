@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Links you love</title>
+    </head>
+    <body>
+
+        <h1>Links I love</h1>
+
+        <ul>
+            <li> <a href="https://www.ehealthafrica.org/our-mission-vision-values"> ehealthafrica</a></li>
+            <li> <a target="_blank" href="https://wisdomfromheaven.net/"> Gospel site</a></li>
+            <li> <a href="https://www.khanacademy.org/science/biology/her/tree-of-life/a/species-speciation">Biology Dictionary and Speciation</a></li>
+        </ul>
+
+        <img src="https://www.kasandbox.org/programming-images/cute/Heart.png">
+
+    </body>
+</html>
