@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Colorful creature</title>
+
+
+
+    </head>
+    <body>
+
+        <h1>THE COOLEST CREATURE</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Anser_anser_1_%28Piotr_Kuczynski%29.jpg" alt="A goose" width="500px">
+    
+
+        <p><em>The goose </em> is  awesome because its very loyal and have strong affection for others in their group.</p>
+
+    </body>
+</html>
