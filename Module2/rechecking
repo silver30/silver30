@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: A picture-perfect trip</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>The perfect trip</h1>
+
+        <p>I would see scenes like...</p>
+        
+            <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Blue_Nile_Falls-03%2C_by_CT_Snow.jpg" alt="blue nile falls" width="200px">
+            <img src="https://epod.usra.edu/.a/6a0105371bb32c970b0148c6d7bbca970c-750wi" alt="eternal flame falls" width="200px">
+
+        <p>And animals like...</p>
+
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Trumpeter_swans_in_winter.jpg/800px-Trumpeter_swans_in_winter.jpg" alt="trumpeter swan" width="200px">
+            <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEz91MZEZyy2bVhTOTjRwY7Tza3TTmL77Bcdr9dzC_yvF52CbXWV_kv-GLAbl7jiH_QLE&usqp=CAU" alt="king penguin" width="200px">
+
+
+        <p>And eat food like...</p>
+
+            <Img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Pasta_salad_closeup.JPG/1200px-Pasta_salad_closeup.JPG" alt="pasta salad" width="200px">
+    </body>
+</html>
