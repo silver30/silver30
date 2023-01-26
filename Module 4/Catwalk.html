@@ -24,14 +24,12 @@
       var currTime = new Date().getTime();
       var secondsElapsed = ((currTime - startTime)/1000);
 
-      var newLeft = secondsElapsed * 50;
+      var newLeft = secondsElapsed * 20;
       catEl.style.left = newLeft + "px";
       window.requestAnimationFrame(walkTheCat);
-
-
+      
   };
-    
-    
+       
   walkTheCat();
   </script>
 
